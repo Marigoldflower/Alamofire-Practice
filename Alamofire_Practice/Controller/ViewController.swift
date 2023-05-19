@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         setupDelegate()
         registerTableView()
         setupNetworkData()
-        print("됐으면 된다고 말좀 해라 좀")
+        
         
     }
     
